@@ -13,7 +13,7 @@ Welcome to Acode Editor - a powerful and versatile code editing tool designed sp
 ## • Features
 
 - Edit and create websites, and instantly preview them in a browser.
-- Seamlessly modify source files for various languages like Python, Java, JavaScript, and more.
+- Seamlessly modify source, files for various languages like Python, Java, JavaScript, and more.
 - Built-in javascript console
 - S/FTP and SSH terminal integration
 - Built-in terminal(Alpine)
@@ -61,7 +61,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed instructions.
   <img src="https://contrib.rocks/image?repo=Acode-Foundation/Acode" />
 </a>
 
-## • Developing a Plugin for Acode
+## • Developing a Plugin for Ancode
 
 For comprehensive documentation on creating plugins for Acode Editor, visit the [repository](https://github.com/Acode-Foundation/acode-plugin).
 
