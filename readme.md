@@ -18,7 +18,7 @@ Welcome to Acode Editor - a powerful and versatile code editing tool designed sp
 - S/FTP and SSH terminal integration
 - Built-in terminal(Alpine)
 - Enjoy multi-language editing support with easy management tools.
-- Enjoy a large collections of community plugins to enhance your coding experience.
+- Enjoy a large collections of community plugins to enhance your coding experience
 
 ## • Installation
 
